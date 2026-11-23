@@ -4,9 +4,9 @@ Installer downloads for **Security Control Center**, a Windows 11 security dashb
 
 ## Download
 
-**[⬇ SecurityControlCenter-Setup-2.0.0.exe](https://github.com/torzzzzzzzz/SecurityControlCenter/releases/download/v2.0.0/SecurityControlCenter-Setup-2.0.0.exe)** — Windows 11 installer (428 KB)
+**[⬇ SecurityControlCenter-Setup-2.0.0.exe](https://github.com/torzzzzzzzz/SecurityControlCenter/raw/main/SecurityControlCenter-Setup-2.0.0.exe)** — Windows 11 installer (428 KB)
 
-All files, including the portable version: [Releases](https://github.com/torzzzzzzzz/SecurityControlCenter/releases/latest)
+Direct link: `https://github.com/torzzzzzzzz/SecurityControlCenter/raw/main/SecurityControlCenter-Setup-2.0.0.exe`
 
 ## Install
 
