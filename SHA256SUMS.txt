@@ -1,0 +1,3 @@
+98ba6b28e449e3c7e4029945a4073a31c3392a768bfe669e76ebfdc31b63681e  SecurityControlCenter-Setup-2.0.0.exe
+d4362367af8a4eced355a67c313a4ad3f53002af14390a96153bdd0ab0100936  SecurityControlCenter-2.0.0-Portable.zip
+f4d86e0db2eda00dc12711e3f906001686309aa3de19acbd9a27cd848fd11b0a  SecurityControlCenter-2.0.0-UITests.zip
